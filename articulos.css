@@ -1,0 +1,12 @@
+*{
+    background-color: #dfb376;
+}
+#nav {
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+}
+#enlaces {
+    padding: 100px;
+    width: 100%;
+}
