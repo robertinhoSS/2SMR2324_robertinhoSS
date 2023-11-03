@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+ <title>Pagina de contacto</title>
+ <link rel="stylesheet" href="contacto.css">
+</head>
+<header class="barra-horizontal">
+    <a href="index.html"><img src="home.png" weight="25" height="25"></a>
+    <a href="articulos.html">Articulos</a>
+    <a href="contacto.html">Contacto</a>
+    <a href="log.html">Log</a>
+</header>
+<body>
+ <h1>Formulario de contacto</h1>
+ <form action="submit.php" method="post">
+   <label for="name">Nombre:</label><br>
+   <input type="text" id="name" name="name"><br>
+   <label for="email">Email:</label><br>
+   <input type="email" id="email" name="email"><br>
+   <label for="message">Mensaje:</label><br>
+   <textarea id="message" name="message"></textarea><br><br>
+   <input type="submit" value="Enviar">
+ </form>
+</body>
+</html>
