@@ -15,3 +15,14 @@
     background-color: #ddd;
     color: black;
 }
+#tab {
+    text-align: center;
+    margin:0 auto;
+}
+table{
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin:0 auto;
+
+}
