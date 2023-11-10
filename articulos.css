@@ -45,14 +45,23 @@
     width: 100%;
     alt: 100%;
 }
+#clasificacion {
+    width: 100%;
+    alt: 100%;
+}
+#hq {
+    width: 100%;
+    alt: 100%;
+}
 img {
     margin: auto;
 }
+
 #d31:hover {
     transform: scale(1.05);
 
 }
-#clasificacion:hover {
+#d32:hover {
     transform: scale(1.05);
 
 }
